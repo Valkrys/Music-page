@@ -1,0 +1,24 @@
+.card{
+    margin: 1rem;
+    border-radius: 0 !important;
+}
+.media{
+    margin: 1rem;
+}
+.d-flex {
+    width: 25%;
+    height: 25%;
+}
+#media-body1{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+#media-body2{
+    margin-right: 2rem;
+    margin-left: 2rem;
+}
+a{
+    color: black;  
+}
+a:hover{
+}
